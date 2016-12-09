@@ -6,6 +6,7 @@ Introduction 簡介
 > 
 > 引用自[小書籤 - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/%E5%B0%8F%E4%B9%A6%E7%AD%BE)
 
+<!-- -->
 > A bookmarklet is a bookmark stored in a web browser that contains JavaScript commands that add new features to the browser.
 >
 > Quoted from [Bookmarklet - Wikipedia](https://en.wikipedia.org/wiki/Bookmarklet)
